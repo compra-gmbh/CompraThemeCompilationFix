@@ -1,0 +1,24 @@
+{
+    "label": {
+        "de": "Fix für Theme-Kompilierung mit Grunt-File-Watcher"
+    },
+    "copyright": "(c) 2016 by COMPRA GmbH",
+    "license": "proprietary",
+    "link": "http://www.compra.de",
+    "author": "COMPRA GmbH",
+    "description": {
+        "de": "Dieses Plugin sorgt dafür, dass nach dem Kompilieren des Theme über das Shopware-Backend die LESS-Kompilierung durch den Grunt-File-Watcher weiterhin funktioniert."
+    },
+    "currentVersion": "1.0.0",
+    "changelog": {
+        "de": {
+            "1.0.0": "Erstveröffentlichung"
+        }
+    },
+    "compatibility": {
+        "minimumVersion": "5.0.1",
+        "maximumVersion": null,
+        "blacklist": [
+        ]
+    }
+}

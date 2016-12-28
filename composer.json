@@ -1,0 +1,9 @@
+{
+  "name": "compra/theme-compilation-fix",
+  "version": "1.0.0",
+  "description": "Ensures that less compilation by the grunt file watcher still works after theme compilation.",
+  "type": "shopware-backend-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
